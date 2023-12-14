@@ -1,7 +1,5 @@
-# Predicting Insurance Renewal
-
 ## Dataset Description
-### Data fields
+Data fields
 
 - **Id:** Unique identifier for each customer
 - **Gender:** Customer's gender
